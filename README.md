@@ -68,3 +68,4 @@ As our company explores expansion into the aviation industry, we need to assess 
 ✅ **Prioritize modern, well-maintained engines** to minimize failures avoid reciprocating engines 
 ✅ **Avoiding aircraft that have a high accident rate in poor weather (IMC).**
 
+Link to Tableau :https://public.tableau.com/app/profile/alex.mwera/viz/AircraftaccidentanalysisPhase-1-Project/Dashboard3
