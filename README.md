@@ -67,4 +67,5 @@ As our company explores expansion into the aviation industry, we need to assess 
 ✅ **Invest in aircraft models with a strong safety record.**  eg the Boeing
 ✅ **Prioritize modern, well-maintained engines** to minimize failures avoid reciprocating engines 
 ✅ **Avoiding aircraft that have a high accident rate in poor weather (IMC).**
-
+* Blog post URL:https://public.tableau.com/app/profile/alex.mwera/viz/AircraftaccidentanalysisPhase-1-Project/Dashboard3
+* Blog post URL:https://github.com/AlexMVisionTech/Data-science-Phase-1-project
